@@ -34,3 +34,18 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+
+ .post.style1.invert .content {
+     background: #c42031;
+ }
+
+
+ #banner {
+  background-image: url(../../images/pic01.jpg);
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 1px 1px 15px #333;
+  text-align: center;
+  cursor: default;
+  padding: 10em 4em 9em 4em;
