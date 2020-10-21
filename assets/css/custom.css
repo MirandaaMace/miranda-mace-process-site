@@ -76,16 +76,7 @@ added to the button in the index html file as well.*/
 img {
   display: inline;
   margin-right: auto;
-  width: 80%;
+  width: 83%;
   padding-bottom: 35px;
   margin: 0;
-  object-fit: contain;
-}
-
-.Stickey {
-  padding-bottom: 35px !important;
-}
-.Style  img{
-    max-width:75%;
-    height:auto !important;
 }
